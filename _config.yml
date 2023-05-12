@@ -24,11 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Internal testing site for work.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cmossboard.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: cmossboard
+github_username:  cmossboard
 
 # Build settings
-theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
 

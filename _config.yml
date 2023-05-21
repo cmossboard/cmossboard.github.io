@@ -28,7 +28,7 @@ twitter_username: cmossboard
 github_username:  cmossboard
 
 # Build settings
-theme: just-the-docs
+remote-theme: just-the-docs
 plugins:
   - jekyll-feed
 

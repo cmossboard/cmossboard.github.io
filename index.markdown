@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
+nav_order: 1
 ---
 # Welcome to Bowlero #719
 
@@ -40,4 +42,4 @@ Leaderboards are updated every Tuesday.
 - Employee Directory
 - Hours of Operation
 - Work Schedule
-- Associate Contest
+- [Associate Contest](/contest.html)

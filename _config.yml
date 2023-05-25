@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Testing Jekyll Awesomeness
+title: Cmoss Is Bored
 email: cmossboard@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Internal testing site for work.
@@ -80,3 +80,7 @@ search:
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: false
+
+callouts:
+  notice:
+    color: blue

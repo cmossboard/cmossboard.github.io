@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 title: Home
 nav_order: 1
 ---
@@ -15,7 +15,7 @@ on the side. If you want something added please let Chris know. If you find some
 an official work project and only being done as a volunteer project to make our lives easier.
 
 Need to get in touch with us? <br>
-Center Phone Number 610-678-8044 (Press 0 to reach the front desk)<br>
+Center Phone Number [610-678-8044](tel:16106788044) (Press 0 to reach the front desk)<br>
 E-mail: [ctr719@amf.com](mailto:ctr719@amf.com) (will email all managers on staff, one of us will answer ASAP)
 
 ## Management Team
@@ -23,12 +23,12 @@ E-mail: [ctr719@amf.com](mailto:ctr719@amf.com) (will email all managers on staf
 
 | Name             |  Position     | Phone           |
 | :---             | :---      |   :-----:   |
-|  April Gornik    |  Assistant GM |   610-823-4199  |
-|  Jess Feliciano  | Operations Manager | 484-769-6191 |
-| Chris Moss       | Operations Manager | 484-818-1449 |
-| Erica Gery-Priest | Kitchen Manager | 484-797-1983 |
-| Alex Bortz | Shift Leader | 484-610-0273 |
-| Tonya Howard | Shift Leader | 717-803-0368 |
+|  April Gornik    |  Assistant GM |   [610-823-4199](tel:16108234199)  |
+|  Jess Feliciano  | Operations Manager | [484-769-6191](tel:14847696191) |
+| Chris Moss       | Operations Manager | [484-818-1449](tel:14848181449) |
+| Erica Gery-Priest | Kitchen Manager | [484-797-1983](tel:14847971983) |
+| Alex Bortz | Shift Leader | [484-610-0273](tel:14846100273) |
+| Tonya Howard | Shift Leader | [717-803-0368](tel:7178030368) |
 
 # Ready for some friendly competition?
 
@@ -40,8 +40,8 @@ Leaderboards are updated every Tuesday.
 
 
 # Resources For Associates
-- Calling Out / Shift Coverage
+- [Calling Out / Shift Coverage](/sick.html)
 - Employee Directory
-- Hours of Operation
-- Work Schedule
+- [Hours of Operation](/hours.html)
+- [Work Schedule](https://time-entry-amf.workforcehosting.com/workforce/Desktop.do)
 - [Associate Contest](/contest.html)

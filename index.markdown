@@ -6,6 +6,8 @@ layout: home
 title: Home
 nav_order: 1
 ---
+
+![image](/assets/img/hero_lander.jpg)
 # Welcome to Bowlero #719
 
 Hopefully this will help you with some of the things you will need day to day to make your lives easier. There is a search function up top, and a navigation bar

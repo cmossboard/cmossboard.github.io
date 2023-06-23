@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sick
+title: Are You Sick?
 permalink: /sick
 nav_order: 3
 ---

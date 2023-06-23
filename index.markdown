@@ -28,7 +28,6 @@ E-mail: [ctr719@amf.com](mailto:ctr719@amf.com) (will email all managers on staf
 | Chris Moss       | Operations Manager | [484-818-1449](tel:14848181449) |
 | Erica Gery-Priest | Kitchen Manager | [484-797-1983](tel:14847971983) |
 | Alex Bortz | Shift Leader | [484-610-0273](tel:14846100273) |
-| Tonya Howard | Shift Leader | [717-803-0368](tel:7178030368) |
 
 # Ready for some friendly competition?
 

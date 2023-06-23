@@ -16,8 +16,8 @@ These are our regular posted hours for Spring/Summer of 2023. Hours may change f
 |-------------------|------|---------|
 | Sunday            | 9AM  | 10PM    |
 | Monday            | 11AM | 10PM    |
-| Tuesday           | 3PM  | 10PM    |
+| Tuesday           | 9AM  | 10PM    |
 | Wednesday         | 11AM | 10PM    |
-| Thursday          | 11AM | 10:30PM |
-| Friday            | 5PM  | 1AM     |
-| Saturday          | 9AM  | 1AM     |
+| Thursday          | 11AM | 10PM |
+| Friday            | 9AM  | 12AM     |
+| Saturday          | 9AM  | 12AM     |

@@ -27,7 +27,6 @@ E-mail: [ctr719@amf.com](mailto:ctr719@amf.com) (will email all managers on staf
 |  Jess Feliciano  | Operations Manager | [484-769-6191](tel:14847696191) |
 | Chris Moss       | Operations Manager | [484-818-1449](tel:14848181449) |
 | Erica Gery-Priest | Kitchen Manager | [484-797-1983](tel:14847971983) |
-| Alex Bortz | Shift Leader | [484-610-0273](tel:14846100273) |
 
 # Ready for some friendly competition?
 
